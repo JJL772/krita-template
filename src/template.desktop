@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=template
+Name=Template Plugin
